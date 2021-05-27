@@ -6,7 +6,7 @@ void main() { runApp(
           backgroundColor: Colors.orangeAccent,
           appBar: AppBar(
             centerTitle: true,
-            title : Text('I am Poor'),
+            title : Text('I am Rich'),
             backgroundColor: Colors.yellow,
           ),
           body: Center(
